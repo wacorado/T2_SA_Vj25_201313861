@@ -361,7 +361,7 @@ services:
 
 ### 3. Diagrama de Arquitectura
 
-![Diagrama de Componentes](img/Arquitectura.png)
+![Diagrama de Arquitectura](img/Arquitectura.png)
 
 ---
 
